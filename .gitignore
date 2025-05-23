@@ -1,0 +1,25 @@
+# Maven output
+/target/
+
+# Logs
+*.log
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java class files
+*.class
+
+# Environment files
+.env
+
+# Docker
+*.jar
+docker-compose.override.yml
+
